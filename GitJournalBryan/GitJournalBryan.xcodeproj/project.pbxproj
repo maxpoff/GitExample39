@@ -17,6 +17,7 @@
 		97D3B47E26556F9900B7B024 /* helperAndExtensionPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D3B47D26556F9900B7B024 /* helperAndExtensionPlaceholder.swift */; };
 		97D3B48026556FA500B7B024 /* modelControllerPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D3B47F26556FA500B7B024 /* modelControllerPlaceholder.swift */; };
 		97D3B48226556FAE00B7B024 /* modelPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D3B48126556FAE00B7B024 /* modelPlaceholder.swift */; };
+		97D3B484265571F000B7B024 /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97D3B483265571F000B7B024 /* Entry.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		97D3B47D26556F9900B7B024 /* helperAndExtensionPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helperAndExtensionPlaceholder.swift; sourceTree = "<group>"; };
 		97D3B47F26556FA500B7B024 /* modelControllerPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modelControllerPlaceholder.swift; sourceTree = "<group>"; };
 		97D3B48126556FAE00B7B024 /* modelPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modelPlaceholder.swift; sourceTree = "<group>"; };
+		97D3B483265571F000B7B024 /* Entry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entry.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				97D3B48126556FAE00B7B024 /* modelPlaceholder.swift */,
+				97D3B483265571F000B7B024 /* Entry.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97D3B484265571F000B7B024 /* Entry.swift in Sources */,
 				97D3B48026556FA500B7B024 /* modelControllerPlaceholder.swift in Sources */,
 				97D3B46326556EAF00B7B024 /* ViewController.swift in Sources */,
 				97D3B45F26556EAF00B7B024 /* AppDelegate.swift in Sources */,
