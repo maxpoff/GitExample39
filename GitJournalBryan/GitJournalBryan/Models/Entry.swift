@@ -10,6 +10,8 @@ import Foundation
 class Entry {
     
     //Heyyyyyyyyyyyy ;)
+    //hii max :)
+
     var title: String
     var bodyText: String
     
