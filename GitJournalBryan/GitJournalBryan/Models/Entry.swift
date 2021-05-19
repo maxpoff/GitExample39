@@ -9,6 +9,7 @@ import Foundation
 
 class Entry {
     
+    //hii max :)
     var title: String
     var bodyText: String
     
