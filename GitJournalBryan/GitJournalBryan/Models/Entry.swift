@@ -9,6 +9,7 @@ import Foundation
 
 class Entry {
     
+    //Heyyyyyyyyyyyy ;)
     var title: String
     var bodyText: String
     
